@@ -1,0 +1,32 @@
+{
+  "name": "kani_eris",
+  "version": "1.0.0",
+  "description": "Kani bot with Eris javascript discord library",
+  "main": "kani.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SYsanc/kani_eris.git"
+  },
+  "author": "sanc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SYsanc/kani_eris/issues"
+  },
+  "homepage": "https://github.com/SYsanc/kani_eris#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "eris": "^0.8.5",
+    "erlpack": "github:abalabahaha/erlpack",
+    "eventemitter3": "^3.0.1",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.2.7",
+    "nodemon": "^1.17.3",
+    "pako": "^1.0.6",
+    "sodium-native": "^2.1.5",
+    "uws": "^9.14.0",
+    "zlib-sync": "^0.1.4"
+  }
+}
